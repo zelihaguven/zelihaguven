@@ -30,5 +30,12 @@ Community work (MentiGuide, PyOpenSourceTR), sustainability & tech,
 and giving back to the tools I build on.
 
 ---
+#### 📊 GitHub in numbers
+<p align="center">
+  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=zelihaguven&show_icons=true&hide_border=true&bg_color=F3E5A8&title_color=0E0E0E&text_color=1A1A1A&icon_color=0E0E0E&ring_color=0E0E0E" />
+  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zelihaguven&layout=compact&hide_border=true&bg_color=F3E5A8&title_color=0E0E0E&text_color=1A1A1A" />
+</p> 
+
+---
 
 📫 [LinkedIn](https://www.linkedin.com/in/zelihaguven/) · [Medium](https://medium.com/@zelihaguven) · [GitHub](https://github.com/zelihaguven)
