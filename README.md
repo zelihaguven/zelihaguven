@@ -30,13 +30,6 @@ Community work (MentiGuide, PyOpenSourceTR), sustainability & tech,
 and giving back to the tools I build on.
 
 ---
-####  GitHub in numbers
-<p align="center">
-  <img alt="Followers" src="https://img.shields.io/github/followers/zelihaguven?label=Followers&labelColor=0E0E0E&color=F3E5A8&logo=github&logoColor=white&style=for-the-badge" />
-  &nbsp;
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=zelihaguven&label=Profile+views&color=F3E5A8&style=for-the-badge" />
-</p>
 
----
 
 📫 [LinkedIn](https://www.linkedin.com/in/zelihaguven/) · [Medium](https://medium.com/@zelihaguven) · [GitHub](https://github.com/zelihaguven)
