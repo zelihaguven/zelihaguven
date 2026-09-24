@@ -19,10 +19,7 @@ byte leaving your machine.
 
 #### 🌱 Open source
 Giving back to tools I use — docs and small, mergeable fixes:
-- **[huggingface_hub](https://github.com/huggingface/huggingface_hub/pull/4944)** — Turkish docs (download, upload, manage-cache)
 - **[sktime](https://github.com/sktime/sktime/pull/11205)** — doctest example for `SupervisedIntervals` *(merged)*
-- **[peft](https://github.com/huggingface/peft/pull/3807)** — AdaLoRA documentation clarification
-- **[Presidio](https://github.com/data-privacy-stack/presidio/pull/2271)** — docs for enabling country pattern recognizers on the default `en` image
 
 #### 🛠️ I work with
 `Python` · `pandas` · `scikit-learn` · `PyTorch` · LLMs, RAG & AI agents · `Ollama` ·
