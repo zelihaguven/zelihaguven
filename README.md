@@ -14,7 +14,7 @@
 
 ---
 
-Computer Engineering @ Bursa Uludağ University, 2027. One semester Erasmus in Heilbronn.  
+Computer Engineering @ Bursa Uludağ University, 2027.
 Program & Community Lead at MentiGuide.
 
 I like turning messy, real problems into small tools that actually work. I sit between autonomous systems, AI products and data: I frame the problem, shape the scope, run the pilot and decide what ships.
@@ -34,6 +34,6 @@ I like turning messy, real problems into small tools that actually work. I sit b
 **[NeuroSync Explorer](https://github.com/zelihaguven/NeuroSync-Explorer)** — multimodal neuroscience analysis. DeepMind hackathon.  
 **[yolo](https://github.com/zelihaguven/yolo)** — city discovery for Erasmus students: backlog, wireframes, scope.
 
-### upstream
+### contributing
 
 merged into [sktime](https://github.com/sktime/sktime/pull/11205) and [pysad](https://github.com/selimfirat/pysad/pull/393) · open PRs in surgical AI (SurgicalSAM2, ISINet, MATIS) and napari docs
