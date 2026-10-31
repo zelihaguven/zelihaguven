@@ -6,10 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=C77DFF&center=true&vCenter=true&width=600&lines=hi%2C+I'm+Ilg%C4%B1n;I+decide+what+gets+built;autonomous+systems+%2B+AI+products;research+%E2%86%92+scope+%E2%86%92+pilot+%E2%86%92+ship" alt="Typing SVG" />
 </a>
 
-<table><tr><td align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="300" alt="girl peeking out from behind her monitor and waving hi">
-</td></tr></table>
-
 <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="100%">
 
 </div>
@@ -61,7 +57,7 @@ These days I sit between **autonomous systems, AI products and data**. I frame t
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="25"> open source
 
-merged into **sktime** and **pysad** · open PRs in surgical AI (SurgicalSAM2, ISINet, MATIS) and napari docs <img src="https://user-images.githubusercontent.com/74038190/240904040-7f4fb7d4-5787-4f72-9a4d-9fb16d3cab39.gif" width="28" alt="thumbs up with hearts">
+merged into **sktime** and **pysad** · open PRs in surgical AI (SurgicalSAM2, ISINet, MATIS) and napari docs
 
 <div align="center">
 
