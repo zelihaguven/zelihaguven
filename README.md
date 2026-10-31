@@ -1,38 +1,47 @@
-### Hi,👋
+<div align="center">
 
-**Computer Engineering student · Data Science & AI/ML · building real-world AI.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffd6e8,100:c9b6ff&height=160&section=header&text=hi,%20i'm%20ilgın&fontSize=42&fontColor=4a3b5c&fontAlignY=38&desc=building%20what%20matters,%20not%20just%20what%20works&descSize=16&descAlignY=60" />
 
-I like turning messy, real problems into small tools that actually work — usually
-somewhere between data, ML, and a language model. I write about what I learn along
-the way, because explaining something is how I make sure I understand it.
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&duration=3200&pause=900&color=8E7CC3&center=true&vCenter=true&width=600&lines=product+%26+program+person+in+AI;autonomous+systems+%C2%B7+AI+agents+%C2%B7+data;deciding+what+gets+built+(and+for+whom)" />
 
-Lately I'm curious about **local-first AI** — how much you can do without a single
-byte leaving your machine.
+</div>
 
----
+### ⋆｡˚ about me
 
-#### 🔭 Featured projects
-- **[Airgap](https://github.com/zelihaguven/airgap)** — a local-first PII lineage auditor for DataHub. Finds where sensitive data leaks through lineage, explains it with a local model, and never sends anything to the cloud. *(DataHub Agent Hackathon)*
-- **[Horizons](https://github.com/zelihaguven/horizons)** — a RAG + recommendation + LLM travel planner for Europe.
-- **[NeuroSync Explorer](https://github.com/zelihaguven/NeuroSync-Explorer)** — multimodal neuroscience analysis (EEG + imaging + literature) built on Gemini. *(Google DeepMind Hackathon)*
-- **[AI & Data Science Portfolio](https://github.com/zelihaguven/ai-data-science-portfolio)** — a collection of my ML/DS experiments.
+I like turning messy, real problems into small tools that actually work.
+These days I sit between **autonomous systems, AI products and data**: I research the problem, shape the scope, run the pilot and decide what ships.
 
-#### 🌱 Open source
-Giving back to tools I use — docs and small, mergeable fixes:
-- **[sktime](https://github.com/sktime/sktime/pull/11205)** — doctest example for `SupervisedIntervals` *(merged)*
+- 🎓 Computer Engineering @ Bursa Uludağ University (2027)
+- 🌱 Program & Community Lead @ MentiGuide
+- ✍️ I write about what I learn, because explaining is how I check that I understand
 
-#### 🛠️ I work with
-`Python` · `pandas` · `scikit-learn` · `PyTorch` · LLMs, RAG & AI agents · `Ollama` ·
-`React` · `Next.js` · `TypeScript`
+### ⋆｡˚ how I work
 
-#### ✍️ I write & explore
-Real-world AI, data science, and breaking into product — mostly on Medium.
-I also run small learning-in-public series (like weekly dev terms).
+| | |
+|---|---|
+| 🧭 **decide** | problem framing, scope, roadmaps, pilots with clear decision gates |
+| 🔍 **read** | ML pipelines, perception & planning stacks, data analysis |
+| 💬 **speak** | docs, PRDs, workshops, community building |
 
-#### 🌍 Beyond code
-Community work (MentiGuide, PyOpenSourceTR), sustainability & tech,
-and open-source contributions to the libraries I build on.
+### ⋆｡˚ things I've built
 
----
+| project | what it is |
+|---|---|
+| 🛡️ [**airgap**](https://github.com/zelihaguven/airgap) | local-first PII lineage auditor for DataHub. released on PyPI |
+| 🚗 [**ihateparking**](https://github.com/zelihaguven/ihateparking) | closed-loop autonomous parking prototype, simulation first |
+| 🥤 [**strawise**](https://github.com/zelihaguven/strawise) | helping cafés cut single-use straws and verify supplier claims. Climathon 2026 |
+| 🗺️ [**horizons**](https://github.com/zelihaguven/horizons) | RAG + LLM travel planner for European cities |
+| 🧠 [**NeuroSync Explorer**](https://github.com/zelihaguven/NeuroSync-Explorer) | multimodal neuroscience analysis. Google DeepMind hackathon |
+| 📋 [**yolo**](https://github.com/zelihaguven/yolo) | city discovery for Erasmus students: backlog, wireframes, scope |
 
-📫 [LinkedIn](https://www.linkedin.com/in/zelihaguven/) · [Medium](https://medium.com/@zelihaguven) · [GitHub](https://github.com/zelihaguven)
+### ⋆｡˚ open source
+
+merged into **sktime** and **pysad** · open PRs in surgical AI (SurgicalSAM2, ISINet, MATIS) and napari docs
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/zelihaguven/zelihaguven/output/pixel-snake.svg" />
+
+<sub>⋆ say hi on <a href="https://www.linkedin.com/in/zelihaguven/">LinkedIn</a> · read my notes on <a href="https://brainlog.substack.com">Substack</a> · <a href="https://medium.com/@zelihaguven">Medium</a> ⋆</sub>
+
+</div>
